@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning IT Sciences
-- 👯 I’m looking to collaborate on 
+- 🌱 I’m currently learning Cybersecurity 
+- 👯 I’m looking to collaborate on IT Sciences
 - 🤔 I’m looking for help to get a intership in medical cybersecurity 
-- 💬 Ask me about cybersecurity
+- 💬 Ask me about cybersecurity Sciences, Sports and Medical Sciences . 
 - 📫 How to reach me: mail : david.micud@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+
 -->
